@@ -72,7 +72,7 @@ defer:
     return result;
 }
 
-#define LAB_NAME "entrypoint"
+#define LAB_NAME "Pong_entrypoint"
 bool build_game(void)
 {
     bool result = true;
